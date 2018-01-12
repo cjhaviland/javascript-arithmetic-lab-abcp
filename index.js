@@ -12,4 +12,4 @@ let dec = (n) => n--;
 
 let makeInt = (n) => parseInt(n, 10);
 
-let preserveDecimal = (n) => parseFloat(n)
+let preserveDecimal = (n) => parseFloat(n);
