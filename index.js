@@ -6,9 +6,9 @@ let multiply = (a, b) => a * b;
 
 let divide = (a, b) => a / b;
 
-let inc = (n) => n++;
+let inc = (n) => n + 1;
 
-let dec = (n) => n--;
+let dec = (n) => n - 1;
 
 let makeInt = (n) => parseInt(n, 10);
 
